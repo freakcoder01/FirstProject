@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void testMethod() {
 
-        //this is test method
     }
+
 
     private void getContactList() {
         ContentResolver cr = getContentResolver();
