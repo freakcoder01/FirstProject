@@ -21,6 +21,13 @@ public class MainActivity extends AppCompatActivity {
         getContactList();
         //this is first comment
 
+        testMethod();
+
+    }
+
+    private void testMethod() {
+
+        //this is test method
     }
 
     private void getContactList() {
